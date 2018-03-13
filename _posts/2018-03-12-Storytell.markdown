@@ -8,7 +8,7 @@ comments: true
 ---
 
 
-Younger we were, we used to go to bed
+ Younger we were, we used to go to bed
 
  A story is what we have always wanted.
 
@@ -20,11 +20,13 @@ Younger we were, we used to go to bed
 
  Continuing the tradition of storytelling for sure.
 
+
 ---
 
 
 
-.A thing close to our heart,
+
+ A thing close to our heart,
 
  As our parents tell us that part,
 
