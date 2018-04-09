@@ -1,28 +1,12 @@
 ---
 layout: post
-title:  "Unsaid"
+title:  ""
 date:   2018-03-14 12:32:46 +0530
 categories: jekyll update
 comments: true
 ---
 
-The truth you know, can't be said,
 
-Cause you are not sure, if that will lead you anywhere.
-
-The state in which you are, you think she might see it now.
-
-Never to know what went wrong, you struggle to get there,
-
-But things push you hard back to scratch,
-
-Feelings that were expressed are at question now,
-
-Was that all false, you wonder how?
-
-Stream of emotions running down,
-
-Things unsaid you cry out loud.
 
 
 
