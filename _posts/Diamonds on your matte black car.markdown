@@ -1,11 +1,32 @@
 ---
 layout: post
-title:  ""
+title:  "Diamonds on you matte black car"
 date:   2018-03-14 12:32:46 +0530
 categories: jekyll update
 comments: true
 ---
 
+Your funeral, we'll get you a matte black coffin.
+
+For your love of matte black to be with you forever.
+
+All the matte black cars you collected,
+
+Will be safe in my garage always.
+
+The red rose moments that compliment the matte black car,
+
+Will be in my heart, recorded.
+
+With a smile on my face, I shall bid adieu.
+
+With tears in my eyes i'll say, "I miss you"
+
+And the matte black cars will experience the shower of tears.
+
+But I'll be happy again when my teardrops will shine,
+
+Like diamonds on your car, just the way you did.
 
 
 
